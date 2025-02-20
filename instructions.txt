@@ -1,1 +1,0 @@
-Print the greeting and calcultate the sum
